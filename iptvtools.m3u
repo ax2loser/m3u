@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,N-TV HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30043.ts
+#EXTINF:-1,NAT GEO HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30044.ts
+#EXTINF:-1,NDR HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30045.ts
+#EXTINF:-1,RTL 2 HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30047.ts
+#EXTINF:-1,RTL HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30049.ts
+#EXTINF:-1,RTL NITRO HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30050.ts
+#EXTINF:-1,SKY EMOTION
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30058.ts
+#EXTINF:-1,SKY GERMANY
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30074.ts
+#EXTINF:-1,SKY SELECT 1 HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30060.ts
+#EXTINF:-1,SKY SELECT 2 HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30061.ts
+#EXTINF:-1,SKY SELECT 3 HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30062.ts
+#EXTINF:-1,SKY SELECT 4 HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30063.ts
+#EXTINF:-1,SKYBUNDESLIGA 1 HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30035.ts
+#EXTINF:-1,SUPER RTL
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30068.ts
+#EXTINF:-1,TNT SERIE
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30070.ts
+#EXTINF:-1,VOX HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30071.ts
+#EXTINF:-1,ZDF HD
+http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/30073.ts
+#EXTINF:-1,DE : Arte HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/574.ts
+#EXTINF:-1,DE : Axn HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/129.ts
+#EXTINF:-1,DE : Discovery Channel HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/108.ts
+#EXTINF:-1,DE : Sky Action
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/132.ts
+#EXTINF:-1,DE : Sky Atlantic
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/133.ts
+#EXTINF:-1,DE : SKY KRIMI
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/386.ts
+#EXTINF:-1,DE : SKY EMOTION HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/139.ts
+#EXTINF:-1,DE : RTL HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/372.ts
+#EXTINF:-1,DE : TLC
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/387.ts
+#EXTINF:-1,DE : Sky 13 Street HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/554.ts
+#EXTINF:-1,DE : KABEL 1 CLASSIC
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/581.ts
+#EXTINF:-1,DE : Kinowelt HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/577.ts
+#EXTINF:-1,DE : ORF 2 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/583.ts
+#EXTINF:-1,DE : ZDF Info
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/575.ts
+#EXTINF:-1,DE : Sport1 US
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/638.ts
